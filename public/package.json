@@ -1,0 +1,15 @@
+{
+  "name": "snackfast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1"
+  },
+  "scripts": {
+    "dev": "babel ./Frontend/design/main.js -o ./Frontend/design/bundle.js -w"
+  }
+}

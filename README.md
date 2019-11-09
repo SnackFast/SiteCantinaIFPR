@@ -1,1 +1,1 @@
-# SiteCantinaIFPR
+# SiteCantina
